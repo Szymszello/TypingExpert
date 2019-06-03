@@ -1,0 +1,59 @@
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.odczyt.resources
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.GenerateResource.Cache
+F:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\pisanie.exe.config
+F:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\bazadanych.sdf
+F:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\pisanie.pdb
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.exe
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.pdb
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csprojResolveAssemblyReference.cache
+F:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Zapis.resources
+D:\Do kopiowania\pisanie\pisanie\bin\Debug\pisanie.exe.config
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\pisanie.exe
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\pisanie.pdb
+D:\Do kopiowania\pisanie\pisanie\bin\Debug\bazadanych.sdf
+D:\Do kopiowania\pisanie\pisanie\bin\Debug\pisanie.pdb
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\pisanie.csprojResolveAssemblyReference.cache
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.odczyt.resources
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Zapis.resources
+D:\Do kopiowania\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.GenerateResource.Cache
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\pisanie.exe.config
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.exe
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.pdb
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\bazadanych.sdf
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\pisanie.pdb
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csprojResolveAssemblyReference.cache
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.odczyt.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\pisanie.exe.config
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.exe
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.pdb
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\bazadanych.sdf
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\pisanie.pdb
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\Interop.WMPLib.dll
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.ResolveComReference.cache
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\Szymon\Desktop\pisanie\pisanie\bin\Debug\pisanie.exe
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.odczyt.resources
+C:\Users\Szymon\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\pisanie.csproj.ResolveComReference.cache
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\pisanie.exe
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\Interop.WMPLib.dll
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.SplashScreen.resources
+C:\Users\nauczyciel\Desktop\pisanie\pisanie\obj\x86\Debug\WindowsFormsApplication1.Zapis.resources

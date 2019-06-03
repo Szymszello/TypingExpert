@@ -1,0 +1,123 @@
+SPIS TEKSTÓW:
+
+
+tekst01.txt
+Ernest Hemingway "Powrót ¿o³nierza" (fragment)
+811 znaków
+
+tekst02.txt
+Ernest Hemingway "Powrót ¿o³nierza" (fragment)
+987 znaków
+
+tekst03.txt
+Ernest Hemingway "Che ti dice la patria?" (fragment)
+1018 znaków
+
+tekst04.txt
+Ernest Hemingway "W innej krainie" (fragment)
+793 znaków
+
+tekst05.txt
+Alistair MacLean "Prze³êcz z³amanego serca" (fragment)
+1959 znaków
+
+tekst06.txt
+Alistair MacLean "Prze³êcz z³amanego serca" (fragment)
+1771 znaków
+
+tekst07.txt
+Alistair MacLean "Prze³êcz z³amanego serca" (fragment)
+2386 znaków
+
+tekst08.txt
+M.K. Gandhi "Autobiografia" (fragment)
+1717 znaków
+
+tekst09.txt
+Roman Polañski "Roman (autobiografia)" (fragment)
+1198 znaków
+
+tekst10.txt
+Roman Polañski "Roman (autobiografia)" (fragment)
+1162 znaków
+
+tekst11.txt
+Roman Polañski "Roman (autobiografia)" (fragment)
+1990 znaków
+
+tekst12.txt
+Roman Polañski "Roman (autobiografia)" (fragment)
+1806 znaków
+
+tekst13.txt
+Aldous Huxley "Nowy wspania³y œwiat" (fragment)
+1617 znaków
+
+tekst14.txt
+Fragment opowiadania opartego na fabule gry Fallout, które kiedyœ napisa³em... tylko siê nie œmiej ;)
+3288 znaków
+
+tekst15.txt
+"Secret Service Kompendium 1" (fragment opowiadania)
+1638 znaków
+
+tekst16.txt
+"Secret Service Kompendium 1" (fragment opowiadania)
+1417 znaków
+
+tekst17.txt
+Tadeusz Do³êga Mostowicz "Z³ota Maska" (fragment)
+1697 znaków
+
+tekst18.txt
+Juliusz Verne "Tajemnicza Wyspa" (fragment)
+2325 znaków
+
+tekst19.txt
+Juliusz Verne "Tajemnicza Wyspa" (fragment)
+2102 znaków
+
+tekst20.txt
+Juliusz Verne "Tajemnicza Wyspa" (fragment)
+2346 znaków
+
+tekst21.txt
+Juliusz Verne "Tajemnicza Wyspa" (fragment)
+2136 znaków
+
+tekst22.txt
+Juliusz Verne "Tajemnicza Wyspa" (fragment)
+2436 znaków
+
+tekst23.txt
+Robert Punt "Wolnoamerykanka" (fragment)
+1964 znaków
+
+tekst24.txt
+Robert Punt "Wolnoamerykanka" (fragment)
+1793 znaków
+
+tekst25.txt
+Robert Punt "Wolnoamerykanka" (fragment)
+2096 znaków
+
+tekst26.txt
+Nicholas Monsarrat "Okrutne morze" (fragment)
+1362 znaków
+
+tekst27.txt
+Nicholas Monsarrat "Okrutne morze" (fragment)
+1988 znaków
+
+tekst28.txt
+Nicholas Monsarrat "Okrutne morze" (fragment)
+2239 znaków
+
+tekst29.txt
+Nicholas Monsarrat "Okrutne morze" (fragment)
+1499 znaków
+
+tekst30.txt
+Nicholas Monsarrat "Okrutne morze" (fragment)
+1784 znaków
+
